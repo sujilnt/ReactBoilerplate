@@ -1,1 +1,6 @@
-console.log("this is a js file");
+const data = ()=>{
+	console.log("running successfully");
+};
+
+const chhh=()=>"seee";
+console.log(data());
