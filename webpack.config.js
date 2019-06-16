@@ -2,13 +2,17 @@ const merge = require("webpack-merge");
 const path = require('path');
 const webpack = require('webpack');
 const modeConfig = env => require(`./webpack/webpack.${env}.js`)(env);
-//const HtmlWebpackPlugin = require('html-webpack-plugin');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports=({mode,presets}={mode: "development", presets:[]})=>{
 return merge({
 	mode,
 	entry:"./index.js",
 	output:{
 		filename: "./main.js",
-	}
+	},
+	plugins: [
+		new HtmlWebpackPlugin({ template: path.resolve('./index.html') }),
+		new webpack.ProgressPlugin()
+	]
 },modeConfig(mode));
 };
