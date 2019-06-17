@@ -5,6 +5,11 @@ const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPl
 module.exports=()=>({
 	mode:"development",
 	devtool: "eval-source-map",
+	devServer : {
+		port:9000,
+		compress: true,
+		serveIndex: true,
+	},
 	resolve : {
 		modules: [path.resolve(__dirname,"src"),"node_modules"]
 	},
@@ -17,7 +22,8 @@ module.exports=()=>({
 				  loader: "babel-loader"
 				}
 			}
-		]
+		],
+		
 	}
 	
 });
