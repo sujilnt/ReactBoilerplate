@@ -1,7 +1,6 @@
 const path = require("path");
-var HtmlWebpackPlugin = require('html-webpack-plugin');
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
-
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 module.exports=()=>({
 	mode:"development",
 	devtool: "eval-source-map",
@@ -21,10 +20,14 @@ module.exports=()=>({
 				use:{
 				  loader: "babel-loader"
 				}
+			}, {
+				test: /\.(css)$/,
+				use: [ MiniCssExtractPlugin.loader, 'css-loader' ],
 			}
 		],
-		
-	}
-	
+	},
+	plugins: [
+		new MiniCssExtractPlugin(),
+	]
 });
 
