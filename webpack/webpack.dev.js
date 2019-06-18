@@ -23,6 +23,16 @@ module.exports=()=>({
 			}, {
 				test: /\.(css)$/,
 				use: [ MiniCssExtractPlugin.loader, 'css-loader' ],
+			}, {
+				test: /\.(png|jpg|gif|jpe?g)$/i,
+				use: [
+					{
+						loader: 'url-loader',
+						options: {
+							limit: 5000
+						}
+					}
+				]
 			}
 		],
 	},
