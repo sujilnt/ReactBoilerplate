@@ -1,9 +1,6 @@
 const path = require("path");
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-const ImageminPlugin = require('imagemin-webpack-plugin').default;
-const imageminMozjpeg = require('imagemin-mozjpeg');
-const imageminSvgo = require('imagemin-svgo');
 
 module.exports=()=>({
 	mode:"development",
@@ -26,15 +23,49 @@ module.exports=()=>({
 				}
 			}, {
 				test: /\.(css)$/,
-				use: [ MiniCssExtractPlugin.loader, 'css-loader' ],
+				use: [ MiniCssExtractPlugin.loader, 'css-loader'],
 			}, {
-				test: /\.(png|jpg|gif|jpe?g|svg)$/i,
+				test: /\.(png|jpg|gif|jpe?g|svg|webp)$/i,
 				use: [
 					{
 						loader: 'url-loader',
 						options: {
 							limit: 5000,
-							outputPath: './assets',
+							outputPath: './assets/images',
+						}
+					},{
+						loader: "image-webpack-loader",
+						options: {
+							mozjpeg : {
+								progressive : true,
+								quality : 65
+							},
+							optipng : {
+								enabled : false,
+							},
+							pngquant : {
+								quality : "65-90",
+								speed : 4
+							},
+							gifsicle : {
+								interlaced : false,
+							},
+							webp : {
+								quality : 75
+							},
+							svgo:{
+								removeViewBox: false
+							}
+						}
+					}
+				]
+			},{
+				test: /\.(woff|woff2|eot|ttf|otf)$/i,
+				use: [
+					{
+						loader: 'url-loader',
+						options: {
+							outputPath: './assets/fonts',
 						}
 					}
 				]
@@ -43,21 +74,6 @@ module.exports=()=>({
 	},
 	plugins: [
 		new MiniCssExtractPlugin(),
-		new ImageminPlugin({
-			pngquant: ({quality: [0.5, 0.5]}),
-			cacheFolder: path.resolve('./CacheAssets'),
-			plugins: [
-				imageminMozjpeg({
-					quality: 50,
-					progressive: true
-				}),
-			    imageminSvgo({
-				    plugins: [{
-				    	removeViewBox: false
-				    }]
-			    })
-			]
-		}),
 	]
 });
 

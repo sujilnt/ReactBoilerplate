@@ -23,12 +23,49 @@ module.exports=()=>({
 				test: /\.css$/,
 				use: [ MiniCssExtractPlugin.loader, 'css-loader' ],
 			},{
-				test: /\.(png|jpg|gif|jpe?g)$/i,
+				test: /\.(png|jpg|gif|jpe?g|svg|webp)$/i,
 				use: [
 					{
 						loader: 'url-loader',
 						options: {
-							limit: 5000
+							limit: 5000,
+							outputPath: 'assets/images',
+						},
+					},
+					{
+						loader: "image-webpack-loader",
+						options: {
+							mozjpeg : {
+								progressive : true,
+								quality : 65
+							},
+							optipng : {
+								enabled : false,
+							},
+							pngquant : {
+								quality : "65-90",
+								speed : 4
+							},
+							gifsicle : {
+								interlaced : false,
+							},
+							webp : {
+								quality : 75
+							},
+							svgo : {
+								removeViewBox : false
+							}
+						}
+					}
+				]
+			},{
+				test: /\.(woff|woff2|eot|ttf|otf)$/i,
+				use: [
+					{
+						loader: 'url-loader',
+						options: {
+							limit: 5000,
+							outputPath: 'assets/images',
 						}
 					}
 				]
@@ -57,6 +94,8 @@ module.exports=()=>({
 					keep_classnames: undefined,
 					keep_fnames: false,
 					safari10: false,
+					cache: true,
+					parallel: true,
 				}
 			}),
 			new OptimizeCSSAssetsPlugin({
@@ -69,6 +108,6 @@ module.exports=()=>({
 		new MiniCssExtractPlugin({
 			filename:  '[name].[hash].css',
 			chunkFilename: '[id].[hash].css'
-		}),
+		})
 	]
 });
