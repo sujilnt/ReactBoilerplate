@@ -1,15 +1,12 @@
 {
   "presets": [
+    [ "@babel/preset-react"],
     [
-      "@babel/preset-env",{
-      "targets":{
-        "esmodules": true
-      }
-    }
-    ], ["@babel/preset-react" ,  {
-      "pragma": "dom",
-      "pragmaFrag": "DomFrag",
-      "throwIfNamespace": false
-    }]
+      "@babel/preset-env",
+      {
+        "targets":{
+          "esmodules": true
+      }}
+    ]
   ]
 }
