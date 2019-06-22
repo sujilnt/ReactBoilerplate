@@ -6,6 +6,10 @@
         "esmodules": true
       }
     }
-    ]
+    ], ["@babel/preset-react" ,  {
+      "pragma": "dom",
+      "pragmaFrag": "DomFrag",
+      "throwIfNamespace": false
+    }]
   ]
 }
