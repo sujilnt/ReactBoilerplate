@@ -11,7 +11,7 @@
     "prod": "yarn run webpack --env.mode prod --watch",
     "dev": "yarn run webpack --env.mode dev --watch",
     "devServer": "yarn run webpack --env.mode dev && webpack-dev-server --env.mode dev --watch",
-    "covertimageWebP": "node utils/covertImgToWebP.js"
+    "covertimageWebP": "node utils/covertImgtoWebP.js"
   },
   "dependencies": {
     "lazysizes": "^5.1.0",
