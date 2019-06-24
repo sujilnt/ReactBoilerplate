@@ -1,9 +1,14 @@
 {
     "env": {
         "browser": true,
-        "es6": true
+        "amd": true,
+        "es6": true,
+        "node": true
     },
-    "extends": "eslint:recommended",
+    "extends":[
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
@@ -21,5 +26,11 @@
     ],
     "rules": {
         "strict": 0
+    },
+    "settings": {
+        "react": {
+            "pragma": "React",
+            "version": "16.0"
+        }
     }
 }

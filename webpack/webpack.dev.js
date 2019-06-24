@@ -1,5 +1,5 @@
 const path = require("path");
-const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
+//const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports=()=>({
@@ -19,7 +19,7 @@ module.exports=()=>({
 				test:/\.(js|jsx)$/,
 				exclude : [/node_modules/,/utils/],
 				use:{
-				  loader: "babel-loader"
+					loader: "babel-loader"
 				}
 			}, {
 				test: /\.(css)$/,

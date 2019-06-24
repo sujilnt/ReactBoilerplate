@@ -8,6 +8,8 @@ imagemin(fileName, 'assets/', {
 		imageminWebp({quality: 50})
 	]
 }).then(() => {
+	/*eslint-disable */
 	console.log('Images optimized');
+	/*eslint-enable */
 });
 
