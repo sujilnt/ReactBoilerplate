@@ -18,9 +18,7 @@ module.exports=()=>({
 			{
 				test:/\.(js|jsx)$/,
 				exclude : [/node_modules/,/utils/],
-				use:{
-					loader: "babel-loader"
-				}
+				use:["babel-loader","eslint-loader"]
 			}, {
 				test: /\.(css)$/,
 				use: [ MiniCssExtractPlugin.loader, 'css-loader'],
