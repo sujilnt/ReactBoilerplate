@@ -12,7 +12,8 @@
     "dev": "yarn run webpack --env.mode dev --watch",
     "devServer": "yarn run webpack --env.mode dev && webpack-dev-server --env.mode dev --watch",
     "covertimageWebP": "node utils/covertImgtoWebP.js",
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "dependencies": {
     "lazysizes": "^5.1.0",
