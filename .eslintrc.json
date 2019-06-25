@@ -25,7 +25,9 @@
         "react"
     ],
     "rules": {
-        "strict": 0
+        "strict": 0,
+        "allow": ["log","warn", "error"],
+        "no-console": "off"
     },
     "settings": {
         "react": {
