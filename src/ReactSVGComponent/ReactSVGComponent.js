@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactSVG from 'react-svg';
 import mess from "../../assets/mess.svg";
-console.warn(typeof(mess));
-const ReactSVGComponet =()=> <div><ReactSVG src={mess} /></div>;
+const image = Object.entries(mess).length === 0 ? "a.svg": mess;
+const ReactSVGComponet =()=> <div><ReactSVG src={image} /></div>;
 export default ReactSVGComponet;
