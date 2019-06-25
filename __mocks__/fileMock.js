@@ -1,1 +1,1 @@
-console.log("this is a js file");
+module.export={};
