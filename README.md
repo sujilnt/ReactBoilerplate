@@ -1,5 +1,5 @@
 # ReactBoilerplate
-A React.js Production Template using Webpack, Babel and Jest still (under work)
+A React.js Production Template using Webpack, Babel and Jest still (under work).
 
 ## install
 `git clone  https://github.com/sujilnt/ReactBoilerplate`  <br/>
