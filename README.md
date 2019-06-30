@@ -6,7 +6,7 @@ A React.js Production Template using Webpack, Babel and Jest still (under work).
 `yarn install`
 
 ## For Development
-`yarn run devServer`
+`yarn run devServer `
 
 ## For Production 
 `yarn run prod `
