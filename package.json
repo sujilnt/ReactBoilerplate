@@ -16,7 +16,6 @@
     "test:coverage": "jest --coverage"
   },
   "dependencies": {
-    "lazysizes": "^5.1.0",
     "path": "^0.12.7",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
