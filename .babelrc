@@ -6,7 +6,7 @@
       {
         "targets":{
           "node": "current",
-          "esmodules": true,
+          "esmodules": true
       }}
     ]
   ]

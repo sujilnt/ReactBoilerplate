@@ -1,5 +1,5 @@
 import React from "react";
-import ReactSVGComponent from "./ReactSVGComponent/ReactSVGComponent";
+import ReactSVGComponent from "./Component/ReactSVGComponent/ReactSVGComponent";
 import "./main.css";
 const App = ()=><div>
 	<div className="container">
