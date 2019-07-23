@@ -13,14 +13,14 @@ return merge({
 	},
 	resolve : {
 		alias:{
-			"@Components": path.resolve(__dirname,"src/Components"),
-			"@css": path.resolve(__dirname,"src/css"),
-			"@mocks": path.resolve(__dirname,"src/__mocks__"),
-			"@utils": path.resolve(__dirname,"utils"),
-			"@assets" : path.resolve(__dirname,"assets"),
-			"@src": path.resolve(__dirname,"src"),
+			"Components": path.resolve(__dirname,"src/Components"),
+			"css": path.resolve(__dirname,"./src/css"),
+			"mocks": path.resolve(__dirname,"./src/__mocks__"),
+			"utils": path.resolve(__dirname,"./utils"),
+			"assets" : path.resolve(__dirname,"./assets"),
+			"src": path.resolve(__dirname,"./src"),
 		},
-		modules: [path.resolve(__dirname,"src"),"node_modules"],
+		modules: [path.resolve(__dirname,"./src"),"node_modules"],
 	},
 	plugins: [
 		new webpack.ProgressPlugin(),
