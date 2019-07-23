@@ -9,7 +9,7 @@
   "scripts": {
     "webpack": "webpack",
     "prod:build": "yarn run webpack --env.mode prod",
-    "prod:watch" : "yarn run webpack --env.mode prod --watch",
+    "prod:watch": "yarn run webpack --env.mode prod --watch",
     "dev": "yarn run webpack --env.mode dev --watch",
     "devServer": "yarn run webpack --env.mode dev && webpack-dev-server --env.mode dev --watch",
     "covertimageWebP": "node utils/covertImgtoWebP.js",
@@ -17,11 +17,13 @@
     "test:coverage": "jest --coverage"
   },
   "dependencies": {
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
     "d3": "^5.9.7",
     "path": "^0.12.7",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-loadable": "^5.5.0",
     "react-svg": "^10.0.9",
     "webpack-bundle-analyzer": "^3.3.2"
   },

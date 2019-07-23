@@ -81,7 +81,9 @@ module.exports=()=>({
 					ecma: undefined,
 					warnings: false,
 					parse: {},
-					compress: {},
+					compress: {
+						drop_console:true
+					},
 					mangle: true, // Note `mangle.properties` is `false` by default.
 					module: false,
 					output: null,
