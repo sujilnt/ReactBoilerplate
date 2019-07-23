@@ -10,9 +10,6 @@ module.exports=()=>({
 		compress: true,
 		serveIndex: true,
 	},
-	resolve : {
-		modules: [path.resolve(__dirname,"src"),"node_modules"]
-	},
 	module:{
 		rules : [
 			{
