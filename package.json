@@ -9,7 +9,7 @@
   "scripts": {
     "webpack": "webpack",
     "prod:build": "yarn run webpack --env.mode prod",
-    "prod:watch" : "yarn run prod --watch",
+    "prod:watch" : "yarn run webpack --env.mode prod --watch",
     "dev": "yarn run webpack --env.mode dev --watch",
     "devServer": "yarn run webpack --env.mode dev && webpack-dev-server --env.mode dev --watch",
     "covertimageWebP": "node utils/covertImgtoWebP.js",

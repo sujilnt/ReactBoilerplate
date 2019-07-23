@@ -11,6 +11,17 @@ return merge({
 	output:{
 		filename: "./main.js",
 	},
+	resolve : {
+		alias:{
+			"@Components": path.resolve(__dirname,"src/Components"),
+			"@css": path.resolve(__dirname,"src/css"),
+			"@mocks": path.resolve(__dirname,"src/__mocks__"),
+			"@utils": path.resolve(__dirname,"utils"),
+			"@assets" : path.resolve(__dirname,"assets"),
+			"@src": path.resolve(__dirname,"src"),
+		},
+		modules: [path.resolve(__dirname,"src"),"node_modules"],
+	},
 	plugins: [
 		new webpack.ProgressPlugin(),
 		new CleanWebpackPlugin({
@@ -23,6 +34,10 @@ return merge({
 				title: "React BoilerPlate v3"  // name of the app
 			},
 			inject:true,
+			minify: {
+				removeComments: true,
+				collapseWhitespace: true
+			}
 		})
 	]
 },modeConfig(mode));
