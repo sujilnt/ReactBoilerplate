@@ -5,8 +5,8 @@
   ],
   "version": "4.37.0",
   "hash": "699ef6f92d7f2e95a902",
-  "time": 3258,
-  "builtAt": 1564017005103,
+  "time": 4323,
+  "builtAt": 1564018100630,
   "publicPath": "",
   "outputPath": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\dist",
   "assetsByChunkName": {
@@ -132,8 +132,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -141,9 +141,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -151,9 +151,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
@@ -161,15 +161,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
               "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             }
           ],
           "profile": {
-            "factory": 269,
-            "building": 19
+            "factory": 733,
+            "building": 42
           },
           "failed": false,
           "errors": 0,
@@ -223,8 +223,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -232,9 +232,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -242,9 +242,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
@@ -252,15 +252,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
               "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             }
           ],
           "profile": {
-            "factory": 269,
-            "building": 19
+            "factory": 733,
+            "building": 42
           },
           "failed": false,
           "errors": 0,
@@ -314,8 +314,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -323,9 +323,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -333,9 +333,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
@@ -343,15 +343,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
               "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             }
           ],
           "profile": {
-            "factory": 269,
-            "building": 19
+            "factory": 733,
+            "building": 42
           },
           "failed": false,
           "errors": 0,
@@ -408,8 +408,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -417,9 +417,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -427,9 +427,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
@@ -437,9 +437,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
               "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             },
             {
@@ -447,14 +447,14 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\server.browser.js",
               "name": "./node_modules/react-dom/server.browser.js",
               "profile": {
-                "factory": 269,
-                "building": 19
+                "factory": 733,
+                "building": 42
               }
             }
           ],
           "profile": {
-            "factory": 4,
-            "building": 112,
+            "factory": 10,
+            "building": 195,
             "dependencies": 9
           },
           "failed": false,
@@ -500,8 +500,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -509,9 +509,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -519,9 +519,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
@@ -529,15 +529,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
               "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             }
           ],
           "profile": {
-            "factory": 269,
-            "building": 19
+            "factory": 733,
+            "building": 42
           },
           "failed": false,
           "errors": 0,
@@ -591,8 +591,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -600,9 +600,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -610,16 +610,16 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             }
           ],
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           },
           "failed": false,
           "errors": 0,
@@ -700,8 +700,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -709,9 +709,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\css\\main.css",
               "name": "./src/css/main.css",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             }
           ],
@@ -758,8 +758,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -767,9 +767,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -777,16 +777,16 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             }
           ],
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           },
           "failed": false,
           "errors": 0,
@@ -847,8 +847,8 @@
           "issuerName": null,
           "issuerPath": null,
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           },
           "failed": false,
           "errors": 0,
@@ -893,8 +893,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -902,9 +902,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react\\index.js",
               "name": "./node_modules/react/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -913,13 +913,13 @@
               "name": "./node_modules/react/cjs/react.development.js",
               "profile": {
                 "factory": 7,
-                "building": 481
+                "building": 592
               }
             }
           ],
           "profile": {
-            "factory": 438,
-            "building": 11
+            "factory": 728,
+            "building": 13
           },
           "failed": false,
           "errors": 0,
@@ -991,8 +991,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1000,9 +1000,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react\\index.js",
               "name": "./node_modules/react/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -1011,13 +1011,13 @@
               "name": "./node_modules/react/cjs/react.development.js",
               "profile": {
                 "factory": 7,
-                "building": 481
+                "building": 592
               }
             }
           ],
           "profile": {
-            "factory": 438,
-            "building": 11
+            "factory": 728,
+            "building": 13
           },
           "failed": false,
           "errors": 0,
@@ -1089,8 +1089,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1098,9 +1098,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -1108,19 +1108,19 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
-              "id": "./node_modules/react-loadable/lib/index.js",
-              "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-              "name": "./node_modules/react-loadable/lib/index.js",
+              "id": "./node_modules/react-svg/dist/react-svg.esm.js",
+              "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+              "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             },
             {
@@ -1128,15 +1128,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\prop-types\\index.js",
               "name": "./node_modules/prop-types/index.js",
               "profile": {
-                "factory": 256,
-                "building": 5
+                "factory": 733,
+                "building": 42
               }
             }
           ],
           "profile": {
-            "factory": 121,
-            "building": 3,
-            "dependencies": 69
+            "factory": 208,
+            "building": 2,
+            "dependencies": 134
           },
           "failed": false,
           "errors": 0,
@@ -1172,17 +1172,17 @@
           "chunks": [
             "main"
           ],
-          "issuer": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-          "issuerId": "./node_modules/react-loadable/lib/index.js",
-          "issuerName": "./node_modules/react-loadable/lib/index.js",
+          "issuer": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+          "issuerId": "./node_modules/react-svg/dist/react-svg.esm.js",
+          "issuerName": "./node_modules/react-svg/dist/react-svg.esm.js",
           "issuerPath": [
             {
               "id": "./index.js",
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1190,9 +1190,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -1200,25 +1200,25 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
-              "id": "./node_modules/react-loadable/lib/index.js",
-              "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-              "name": "./node_modules/react-loadable/lib/index.js",
+              "id": "./node_modules/react-svg/dist/react-svg.esm.js",
+              "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+              "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             }
           ],
           "profile": {
-            "factory": 256,
-            "building": 5
+            "factory": 733,
+            "building": 42
           },
           "failed": false,
           "errors": 0,
@@ -1398,8 +1398,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1407,9 +1407,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react\\index.js",
               "name": "./node_modules/react/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -1418,7 +1418,7 @@
               "name": "./node_modules/react/cjs/react.development.js",
               "profile": {
                 "factory": 7,
-                "building": 481
+                "building": 592
               }
             },
             {
@@ -1426,14 +1426,14 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\prop-types\\checkPropTypes.js",
               "name": "./node_modules/prop-types/checkPropTypes.js",
               "profile": {
-                "factory": 438,
-                "building": 11
+                "factory": 728,
+                "building": 13
               }
             }
           ],
           "profile": {
-            "factory": 20,
-            "building": 18
+            "factory": 36,
+            "building": 7
           },
           "failed": false,
           "errors": 0,
@@ -1487,8 +1487,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1496,16 +1496,16 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             }
           ],
           "profile": {
             "factory": 5,
-            "building": 1278,
-            "dependencies": 1
+            "building": 1885,
+            "dependencies": 0
           },
           "failed": false,
           "errors": 0,
@@ -1550,15 +1550,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             }
           ],
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           },
           "failed": false,
           "errors": 0,
@@ -1612,8 +1612,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1621,9 +1621,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -1631,19 +1631,19 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
-              "id": "./node_modules/react-loadable/lib/index.js",
-              "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-              "name": "./node_modules/react-loadable/lib/index.js",
+              "id": "./node_modules/react-svg/dist/react-svg.esm.js",
+              "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+              "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             },
             {
@@ -1651,8 +1651,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\prop-types\\index.js",
               "name": "./node_modules/prop-types/index.js",
               "profile": {
-                "factory": 256,
-                "building": 5
+                "factory": 733,
+                "building": 42
               }
             },
             {
@@ -1660,15 +1660,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-is\\index.js",
               "name": "./node_modules/react-is/index.js",
               "profile": {
-                "factory": 121,
-                "building": 3,
-                "dependencies": 69
+                "factory": 208,
+                "building": 2,
+                "dependencies": 134
               }
             }
           ],
           "profile": {
             "factory": 1,
-            "building": 7
+            "building": 24
           },
           "failed": false,
           "errors": 0,
@@ -1713,8 +1713,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1722,9 +1722,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -1732,19 +1732,19 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             },
             {
-              "id": "./node_modules/react-loadable/lib/index.js",
-              "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-              "name": "./node_modules/react-loadable/lib/index.js",
+              "id": "./node_modules/react-svg/dist/react-svg.esm.js",
+              "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+              "name": "./node_modules/react-svg/dist/react-svg.esm.js",
               "profile": {
-                "factory": 550,
-                "building": 178,
-                "dependencies": 252
+                "factory": 648,
+                "building": 298,
+                "dependencies": 408
               }
             },
             {
@@ -1752,15 +1752,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\prop-types\\index.js",
               "name": "./node_modules/prop-types/index.js",
               "profile": {
-                "factory": 256,
-                "building": 5
+                "factory": 733,
+                "building": 42
               }
             }
           ],
           "profile": {
-            "factory": 121,
-            "building": 3,
-            "dependencies": 69
+            "factory": 208,
+            "building": 2,
+            "dependencies": 134
           },
           "failed": false,
           "errors": 0,
@@ -1814,8 +1814,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1823,9 +1823,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -1833,16 +1833,16 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
               "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
               "profile": {
-                "factory": 245,
-                "building": 39,
-                "dependencies": 20
+                "factory": 256,
+                "building": 38,
+                "dependencies": 8
               }
             }
           ],
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           },
           "failed": false,
           "errors": 0,
@@ -1896,8 +1896,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -1905,15 +1905,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react\\index.js",
               "name": "./node_modules/react/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             }
           ],
           "profile": {
             "factory": 7,
-            "building": 481
+            "building": 592
           },
           "failed": false,
           "errors": 0,
@@ -1958,15 +1958,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             }
           ],
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           },
           "failed": false,
           "errors": 0,
@@ -2227,8 +2227,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -2236,9 +2236,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -2247,8 +2247,8 @@
               "name": "./node_modules/react-dom/cjs/react-dom.development.js",
               "profile": {
                 "factory": 5,
-                "building": 1278,
-                "dependencies": 1
+                "building": 1885,
+                "dependencies": 0
               }
             },
             {
@@ -2256,14 +2256,14 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\scheduler\\tracing.js",
               "name": "./node_modules/scheduler/tracing.js",
               "profile": {
-                "factory": 10,
-                "building": 2
+                "factory": 8,
+                "building": 1
               }
             }
           ],
           "profile": {
             "factory": 2,
-            "building": 3
+            "building": 4
           },
           "failed": false,
           "errors": 0,
@@ -2308,8 +2308,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -2317,9 +2317,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -2328,8 +2328,8 @@
               "name": "./node_modules/react-dom/cjs/react-dom.development.js",
               "profile": {
                 "factory": 5,
-                "building": 1278,
-                "dependencies": 1
+                "building": 1885,
+                "dependencies": 0
               }
             },
             {
@@ -2337,14 +2337,14 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\scheduler\\index.js",
               "name": "./node_modules/scheduler/index.js",
               "profile": {
-                "factory": 10,
-                "building": 2
+                "factory": 8,
+                "building": 1
               }
             }
           ],
           "profile": {
             "factory": 1,
-            "building": 6
+            "building": 8
           },
           "failed": false,
           "errors": 0,
@@ -2389,8 +2389,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -2398,9 +2398,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -2409,14 +2409,14 @@
               "name": "./node_modules/react-dom/cjs/react-dom.development.js",
               "profile": {
                 "factory": 5,
-                "building": 1278,
-                "dependencies": 1
+                "building": 1885,
+                "dependencies": 0
               }
             }
           ],
           "profile": {
-            "factory": 10,
-            "building": 2
+            "factory": 8,
+            "building": 1
           },
           "failed": false,
           "errors": 0,
@@ -2461,8 +2461,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -2470,9 +2470,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -2481,14 +2481,14 @@
               "name": "./node_modules/react-dom/cjs/react-dom.development.js",
               "profile": {
                 "factory": 5,
-                "building": 1278,
-                "dependencies": 1
+                "building": 1885,
+                "dependencies": 0
               }
             }
           ],
           "profile": {
-            "factory": 10,
-            "building": 2
+            "factory": 8,
+            "building": 1
           },
           "failed": false,
           "errors": 0,
@@ -2533,8 +2533,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -2542,9 +2542,9 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
               "name": "./node_modules/react-dom/index.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             },
             {
@@ -2553,8 +2553,8 @@
               "name": "./node_modules/react-dom/cjs/react-dom.development.js",
               "profile": {
                 "factory": 5,
-                "building": 1278,
-                "dependencies": 1
+                "building": 1885,
+                "dependencies": 0
               }
             },
             {
@@ -2562,8 +2562,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\scheduler\\index.js",
               "name": "./node_modules/scheduler/index.js",
               "profile": {
-                "factory": 10,
-                "building": 2
+                "factory": 8,
+                "building": 1
               }
             },
             {
@@ -2572,13 +2572,13 @@
               "name": "./node_modules/scheduler/cjs/scheduler.development.js",
               "profile": {
                 "factory": 1,
-                "building": 6
+                "building": 8
               }
             }
           ],
           "profile": {
-            "factory": 0,
-            "building": 2
+            "factory": 1,
+            "building": 1
           },
           "failed": false,
           "errors": 0,
@@ -2623,15 +2623,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             }
           ],
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           },
           "failed": false,
           "errors": 0,
@@ -2687,8 +2687,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             },
             {
@@ -2696,16 +2696,16 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
               "name": "./src/App.js",
               "profile": {
-                "factory": 342,
-                "building": 42,
-                "dependencies": 245
+                "factory": 390,
+                "building": 8,
+                "dependencies": 256
               }
             }
           ],
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           },
           "failed": false,
           "errors": 0,
@@ -2761,15 +2761,15 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
               "name": "./index.js",
               "profile": {
-                "factory": 65,
-                "building": 905
+                "factory": 90,
+                "building": 1098
               }
             }
           ],
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           },
           "failed": false,
           "errors": 0,
@@ -2837,8 +2837,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -2846,9 +2846,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\css\\main.css",
           "name": "./src/css/main.css",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         }
       ],
@@ -2895,8 +2895,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -2904,9 +2904,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -2914,16 +2914,16 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         }
       ],
       "profile": {
-        "factory": 550,
-        "building": 178,
-        "dependencies": 252
+        "factory": 648,
+        "building": 298,
+        "dependencies": 408
       },
       "failed": false,
       "errors": 0,
@@ -2984,8 +2984,8 @@
       "issuerName": null,
       "issuerPath": null,
       "profile": {
-        "factory": 65,
-        "building": 905
+        "factory": 90,
+        "building": 1098
       },
       "failed": false,
       "errors": 0,
@@ -3030,8 +3030,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3039,9 +3039,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3049,9 +3049,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
@@ -3059,15 +3059,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
           "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         }
       ],
       "profile": {
-        "factory": 269,
-        "building": 19
+        "factory": 733,
+        "building": 42
       },
       "failed": false,
       "errors": 0,
@@ -3121,8 +3121,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3130,9 +3130,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3140,9 +3140,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
@@ -3150,15 +3150,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
           "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         }
       ],
       "profile": {
-        "factory": 269,
-        "building": 19
+        "factory": 733,
+        "building": 42
       },
       "failed": false,
       "errors": 0,
@@ -3212,8 +3212,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3221,9 +3221,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3231,9 +3231,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
@@ -3241,15 +3241,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
           "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         }
       ],
       "profile": {
-        "factory": 269,
-        "building": 19
+        "factory": 733,
+        "building": 42
       },
       "failed": false,
       "errors": 0,
@@ -3306,8 +3306,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3315,9 +3315,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react\\index.js",
           "name": "./node_modules/react/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3326,13 +3326,13 @@
           "name": "./node_modules/react/cjs/react.development.js",
           "profile": {
             "factory": 7,
-            "building": 481
+            "building": 592
           }
         }
       ],
       "profile": {
-        "factory": 438,
-        "building": 11
+        "factory": 728,
+        "building": 13
       },
       "failed": false,
       "errors": 0,
@@ -3404,8 +3404,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3413,9 +3413,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react\\index.js",
           "name": "./node_modules/react/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3424,13 +3424,13 @@
           "name": "./node_modules/react/cjs/react.development.js",
           "profile": {
             "factory": 7,
-            "building": 481
+            "building": 592
           }
         }
       ],
       "profile": {
-        "factory": 438,
-        "building": 11
+        "factory": 728,
+        "building": 13
       },
       "failed": false,
       "errors": 0,
@@ -3502,8 +3502,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3511,9 +3511,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3521,19 +3521,19 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
-          "id": "./node_modules/react-loadable/lib/index.js",
-          "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-          "name": "./node_modules/react-loadable/lib/index.js",
+          "id": "./node_modules/react-svg/dist/react-svg.esm.js",
+          "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+          "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         },
         {
@@ -3541,15 +3541,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\prop-types\\index.js",
           "name": "./node_modules/prop-types/index.js",
           "profile": {
-            "factory": 256,
-            "building": 5
+            "factory": 733,
+            "building": 42
           }
         }
       ],
       "profile": {
-        "factory": 121,
-        "building": 3,
-        "dependencies": 69
+        "factory": 208,
+        "building": 2,
+        "dependencies": 134
       },
       "failed": false,
       "errors": 0,
@@ -3585,17 +3585,17 @@
       "chunks": [
         "main"
       ],
-      "issuer": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-      "issuerId": "./node_modules/react-loadable/lib/index.js",
-      "issuerName": "./node_modules/react-loadable/lib/index.js",
+      "issuer": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+      "issuerId": "./node_modules/react-svg/dist/react-svg.esm.js",
+      "issuerName": "./node_modules/react-svg/dist/react-svg.esm.js",
       "issuerPath": [
         {
           "id": "./index.js",
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3603,9 +3603,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3613,25 +3613,25 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
-          "id": "./node_modules/react-loadable/lib/index.js",
-          "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-          "name": "./node_modules/react-loadable/lib/index.js",
+          "id": "./node_modules/react-svg/dist/react-svg.esm.js",
+          "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+          "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         }
       ],
       "profile": {
-        "factory": 256,
-        "building": 5
+        "factory": 733,
+        "building": 42
       },
       "failed": false,
       "errors": 0,
@@ -3811,8 +3811,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3820,9 +3820,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react\\index.js",
           "name": "./node_modules/react/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3831,7 +3831,7 @@
           "name": "./node_modules/react/cjs/react.development.js",
           "profile": {
             "factory": 7,
-            "building": 481
+            "building": 592
           }
         },
         {
@@ -3839,14 +3839,14 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\prop-types\\checkPropTypes.js",
           "name": "./node_modules/prop-types/checkPropTypes.js",
           "profile": {
-            "factory": 438,
-            "building": 11
+            "factory": 728,
+            "building": 13
           }
         }
       ],
       "profile": {
-        "factory": 20,
-        "building": 18
+        "factory": 36,
+        "building": 7
       },
       "failed": false,
       "errors": 0,
@@ -3900,8 +3900,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -3909,9 +3909,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -3919,9 +3919,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
@@ -3929,9 +3929,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
           "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         },
         {
@@ -3939,14 +3939,14 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\server.browser.js",
           "name": "./node_modules/react-dom/server.browser.js",
           "profile": {
-            "factory": 269,
-            "building": 19
+            "factory": 733,
+            "building": 42
           }
         }
       ],
       "profile": {
-        "factory": 4,
-        "building": 112,
+        "factory": 10,
+        "building": 195,
         "dependencies": 9
       },
       "failed": false,
@@ -3992,8 +3992,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4001,16 +4001,16 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         }
       ],
       "profile": {
         "factory": 5,
-        "building": 1278,
-        "dependencies": 1
+        "building": 1885,
+        "dependencies": 0
       },
       "failed": false,
       "errors": 0,
@@ -4055,15 +4055,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         }
       ],
       "profile": {
-        "factory": 342,
-        "building": 42,
-        "dependencies": 245
+        "factory": 390,
+        "building": 8,
+        "dependencies": 256
       },
       "failed": false,
       "errors": 0,
@@ -4117,8 +4117,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4126,9 +4126,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -4136,9 +4136,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
@@ -4146,15 +4146,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
           "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         }
       ],
       "profile": {
-        "factory": 269,
-        "building": 19
+        "factory": 733,
+        "building": 42
       },
       "failed": false,
       "errors": 0,
@@ -4208,8 +4208,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4217,9 +4217,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -4227,19 +4227,19 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
-          "id": "./node_modules/react-loadable/lib/index.js",
-          "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-          "name": "./node_modules/react-loadable/lib/index.js",
+          "id": "./node_modules/react-svg/dist/react-svg.esm.js",
+          "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+          "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         },
         {
@@ -4247,8 +4247,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\prop-types\\index.js",
           "name": "./node_modules/prop-types/index.js",
           "profile": {
-            "factory": 256,
-            "building": 5
+            "factory": 733,
+            "building": 42
           }
         },
         {
@@ -4256,15 +4256,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-is\\index.js",
           "name": "./node_modules/react-is/index.js",
           "profile": {
-            "factory": 121,
-            "building": 3,
-            "dependencies": 69
+            "factory": 208,
+            "building": 2,
+            "dependencies": 134
           }
         }
       ],
       "profile": {
         "factory": 1,
-        "building": 7
+        "building": 24
       },
       "failed": false,
       "errors": 0,
@@ -4309,8 +4309,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4318,9 +4318,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -4328,19 +4328,19 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         },
         {
-          "id": "./node_modules/react-loadable/lib/index.js",
-          "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-loadable\\lib\\index.js",
-          "name": "./node_modules/react-loadable/lib/index.js",
+          "id": "./node_modules/react-svg/dist/react-svg.esm.js",
+          "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-svg\\dist\\react-svg.esm.js",
+          "name": "./node_modules/react-svg/dist/react-svg.esm.js",
           "profile": {
-            "factory": 550,
-            "building": 178,
-            "dependencies": 252
+            "factory": 648,
+            "building": 298,
+            "dependencies": 408
           }
         },
         {
@@ -4348,15 +4348,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\prop-types\\index.js",
           "name": "./node_modules/prop-types/index.js",
           "profile": {
-            "factory": 256,
-            "building": 5
+            "factory": 733,
+            "building": 42
           }
         }
       ],
       "profile": {
-        "factory": 121,
-        "building": 3,
-        "dependencies": 69
+        "factory": 208,
+        "building": 2,
+        "dependencies": 134
       },
       "failed": false,
       "errors": 0,
@@ -4410,8 +4410,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4419,9 +4419,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -4429,16 +4429,16 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         }
       ],
       "profile": {
-        "factory": 550,
-        "building": 178,
-        "dependencies": 252
+        "factory": 648,
+        "building": 298,
+        "dependencies": 408
       },
       "failed": false,
       "errors": 0,
@@ -4492,8 +4492,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4501,9 +4501,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -4511,16 +4511,16 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\Components\\ReactSVGComponent\\ReactSVGComponent.js",
           "name": "./src/Components/ReactSVGComponent/ReactSVGComponent.js",
           "profile": {
-            "factory": 245,
-            "building": 39,
-            "dependencies": 20
+            "factory": 256,
+            "building": 38,
+            "dependencies": 8
           }
         }
       ],
       "profile": {
-        "factory": 550,
-        "building": 178,
-        "dependencies": 252
+        "factory": 648,
+        "building": 298,
+        "dependencies": 408
       },
       "failed": false,
       "errors": 0,
@@ -4567,8 +4567,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4576,15 +4576,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react\\index.js",
           "name": "./node_modules/react/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         }
       ],
       "profile": {
         "factory": 7,
-        "building": 481
+        "building": 592
       },
       "failed": false,
       "errors": 0,
@@ -4629,15 +4629,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         }
       ],
       "profile": {
-        "factory": 342,
-        "building": 42,
-        "dependencies": 245
+        "factory": 390,
+        "building": 8,
+        "dependencies": 256
       },
       "failed": false,
       "errors": 0,
@@ -4898,8 +4898,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4907,9 +4907,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -4918,8 +4918,8 @@
           "name": "./node_modules/react-dom/cjs/react-dom.development.js",
           "profile": {
             "factory": 5,
-            "building": 1278,
-            "dependencies": 1
+            "building": 1885,
+            "dependencies": 0
           }
         },
         {
@@ -4927,14 +4927,14 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\scheduler\\tracing.js",
           "name": "./node_modules/scheduler/tracing.js",
           "profile": {
-            "factory": 10,
-            "building": 2
+            "factory": 8,
+            "building": 1
           }
         }
       ],
       "profile": {
         "factory": 2,
-        "building": 3
+        "building": 4
       },
       "failed": false,
       "errors": 0,
@@ -4979,8 +4979,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -4988,9 +4988,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -4999,8 +4999,8 @@
           "name": "./node_modules/react-dom/cjs/react-dom.development.js",
           "profile": {
             "factory": 5,
-            "building": 1278,
-            "dependencies": 1
+            "building": 1885,
+            "dependencies": 0
           }
         },
         {
@@ -5008,14 +5008,14 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\scheduler\\index.js",
           "name": "./node_modules/scheduler/index.js",
           "profile": {
-            "factory": 10,
-            "building": 2
+            "factory": 8,
+            "building": 1
           }
         }
       ],
       "profile": {
         "factory": 1,
-        "building": 6
+        "building": 8
       },
       "failed": false,
       "errors": 0,
@@ -5060,8 +5060,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -5069,9 +5069,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -5080,14 +5080,14 @@
           "name": "./node_modules/react-dom/cjs/react-dom.development.js",
           "profile": {
             "factory": 5,
-            "building": 1278,
-            "dependencies": 1
+            "building": 1885,
+            "dependencies": 0
           }
         }
       ],
       "profile": {
-        "factory": 10,
-        "building": 2
+        "factory": 8,
+        "building": 1
       },
       "failed": false,
       "errors": 0,
@@ -5132,8 +5132,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -5141,9 +5141,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -5152,14 +5152,14 @@
           "name": "./node_modules/react-dom/cjs/react-dom.development.js",
           "profile": {
             "factory": 5,
-            "building": 1278,
-            "dependencies": 1
+            "building": 1885,
+            "dependencies": 0
           }
         }
       ],
       "profile": {
-        "factory": 10,
-        "building": 2
+        "factory": 8,
+        "building": 1
       },
       "failed": false,
       "errors": 0,
@@ -5204,8 +5204,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -5213,9 +5213,9 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\react-dom\\index.js",
           "name": "./node_modules/react-dom/index.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         },
         {
@@ -5224,8 +5224,8 @@
           "name": "./node_modules/react-dom/cjs/react-dom.development.js",
           "profile": {
             "factory": 5,
-            "building": 1278,
-            "dependencies": 1
+            "building": 1885,
+            "dependencies": 0
           }
         },
         {
@@ -5233,8 +5233,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\scheduler\\index.js",
           "name": "./node_modules/scheduler/index.js",
           "profile": {
-            "factory": 10,
-            "building": 2
+            "factory": 8,
+            "building": 1
           }
         },
         {
@@ -5243,13 +5243,13 @@
           "name": "./node_modules/scheduler/cjs/scheduler.development.js",
           "profile": {
             "factory": 1,
-            "building": 6
+            "building": 8
           }
         }
       ],
       "profile": {
-        "factory": 0,
-        "building": 2
+        "factory": 1,
+        "building": 1
       },
       "failed": false,
       "errors": 0,
@@ -5294,15 +5294,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         }
       ],
       "profile": {
-        "factory": 342,
-        "building": 42,
-        "dependencies": 245
+        "factory": 390,
+        "building": 8,
+        "dependencies": 256
       },
       "failed": false,
       "errors": 0,
@@ -5358,8 +5358,8 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         },
         {
@@ -5367,16 +5367,16 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\src\\App.js",
           "name": "./src/App.js",
           "profile": {
-            "factory": 342,
-            "building": 42,
-            "dependencies": 245
+            "factory": 390,
+            "building": 8,
+            "dependencies": 256
           }
         }
       ],
       "profile": {
-        "factory": 245,
-        "building": 39,
-        "dependencies": 20
+        "factory": 256,
+        "building": 38,
+        "dependencies": 8
       },
       "failed": false,
       "errors": 0,
@@ -5432,15 +5432,15 @@
           "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\babel-loader\\lib\\index.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\eslint-loader\\index.js??ref--4-1!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\index.js",
           "name": "./index.js",
           "profile": {
-            "factory": 65,
-            "building": 905
+            "factory": 90,
+            "building": 1098
           }
         }
       ],
       "profile": {
-        "factory": 342,
-        "building": 42,
-        "dependencies": 245
+        "factory": 390,
+        "building": 8,
+        "dependencies": 256
       },
       "failed": false,
       "errors": 0,
@@ -5553,8 +5553,8 @@
               "issuerName": null,
               "issuerPath": null,
               "profile": {
-                "factory": 43,
-                "building": 25
+                "factory": 65,
+                "building": 32
               },
               "failed": false,
               "errors": 0,
@@ -5598,14 +5598,14 @@
                   "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\webpack\\template.ejs",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./webpack/template.ejs",
                   "profile": {
-                    "factory": 43,
-                    "building": 25
+                    "factory": 65,
+                    "building": 32
                   }
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 1948
+                "factory": 7,
+                "building": 2385
               },
               "failed": false,
               "errors": 0,
@@ -5650,8 +5650,8 @@
                   "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\webpack\\template.ejs",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./webpack/template.ejs",
                   "profile": {
-                    "factory": 43,
-                    "building": 25
+                    "factory": 65,
+                    "building": 32
                   }
                 },
                 {
@@ -5659,14 +5659,14 @@
                   "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\lodash\\lodash.js",
                   "name": "./node_modules/lodash/lodash.js",
                   "profile": {
-                    "factory": 6,
-                    "building": 1948
+                    "factory": 7,
+                    "building": 2385
                   }
                 }
               ],
               "profile": {
-                "factory": 16,
-                "building": 5
+                "factory": 22,
+                "building": 7
               },
               "failed": false,
               "errors": 0,
@@ -5711,8 +5711,8 @@
                   "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\webpack\\template.ejs",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./webpack/template.ejs",
                   "profile": {
-                    "factory": 43,
-                    "building": 25
+                    "factory": 65,
+                    "building": 32
                   }
                 },
                 {
@@ -5720,14 +5720,14 @@
                   "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\lodash\\lodash.js",
                   "name": "./node_modules/lodash/lodash.js",
                   "profile": {
-                    "factory": 6,
-                    "building": 1948
+                    "factory": 7,
+                    "building": 2385
                   }
                 }
               ],
               "profile": {
-                "factory": 16,
-                "building": 5
+                "factory": 22,
+                "building": 7
               },
               "failed": false,
               "errors": 0,
@@ -5783,8 +5783,8 @@
           "issuerName": null,
           "issuerPath": null,
           "profile": {
-            "factory": 43,
-            "building": 25
+            "factory": 65,
+            "building": 32
           },
           "failed": false,
           "errors": 0,
@@ -5828,14 +5828,14 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\webpack\\template.ejs",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./webpack/template.ejs",
               "profile": {
-                "factory": 43,
-                "building": 25
+                "factory": 65,
+                "building": 32
               }
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 1948
+            "factory": 7,
+            "building": 2385
           },
           "failed": false,
           "errors": 0,
@@ -5880,8 +5880,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\webpack\\template.ejs",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./webpack/template.ejs",
               "profile": {
-                "factory": 43,
-                "building": 25
+                "factory": 65,
+                "building": 32
               }
             },
             {
@@ -5889,14 +5889,14 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\lodash\\lodash.js",
               "name": "./node_modules/lodash/lodash.js",
               "profile": {
-                "factory": 6,
-                "building": 1948
+                "factory": 7,
+                "building": 2385
               }
             }
           ],
           "profile": {
-            "factory": 16,
-            "building": 5
+            "factory": 22,
+            "building": 7
           },
           "failed": false,
           "errors": 0,
@@ -5941,8 +5941,8 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\webpack\\template.ejs",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./webpack/template.ejs",
               "profile": {
-                "factory": 43,
-                "building": 25
+                "factory": 65,
+                "building": 32
               }
             },
             {
@@ -5950,14 +5950,14 @@
               "identifier": "C:\\Users\\Optimised\\WebstormProjects\\ReactBoilerplate\\node_modules\\lodash\\lodash.js",
               "name": "./node_modules/lodash/lodash.js",
               "profile": {
-                "factory": 6,
-                "building": 1948
+                "factory": 7,
+                "building": 2385
               }
             }
           ],
           "profile": {
-            "factory": 16,
-            "building": 5
+            "factory": 22,
+            "building": 7
           },
           "failed": false,
           "errors": 0,
@@ -6056,7 +6056,7 @@
               "issuerPath": null,
               "profile": {
                 "factory": 2,
-                "building": 214
+                "building": 119
               },
               "failed": false,
               "errors": 0,
@@ -6102,13 +6102,13 @@
                   "name": "./node_modules/css-loader/dist/cjs.js!./src/css/main.css",
                   "profile": {
                     "factory": 2,
-                    "building": 214
+                    "building": 119
                   }
                 }
               ],
               "profile": {
-                "factory": 4,
-                "building": 9
+                "factory": 113,
+                "building": 10
               },
               "failed": false,
               "errors": 0,
@@ -6165,7 +6165,7 @@
           "issuerPath": null,
           "profile": {
             "factory": 2,
-            "building": 214
+            "building": 119
           },
           "failed": false,
           "errors": 0,
@@ -6211,13 +6211,13 @@
               "name": "./node_modules/css-loader/dist/cjs.js!./src/css/main.css",
               "profile": {
                 "factory": 2,
-                "building": 214
+                "building": 119
               }
             }
           ],
           "profile": {
-            "factory": 4,
-            "building": 9
+            "factory": 113,
+            "building": 10
           },
           "failed": false,
           "errors": 0,
