@@ -13,6 +13,8 @@
     "dev": "yarn run webpack --env.mode dev --watch",
     "devServer": "yarn run webpack --env.mode dev && webpack-dev-server --env.mode dev --watch",
     "covertimageWebP": "node utils/covertImgtoWebP.js",
+    "generate-stats": "webpack --profile --json > ./bundleAnalyser/stats.json",
+    "bundle-analyzer": "yarn run generate-stats && webpack-bundle-analyzer ./bundleAnalyser/stats.json",
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
